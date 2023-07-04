@@ -1,0 +1,108 @@
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\appsettings.Development.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\appsettings.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.staticwebassets.runtime.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.exe
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.deps.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.runtimeconfig.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.pdb
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\MySql.Data.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.AssemblyReference.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfo.cs
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cs
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesMovie.props
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesMovie.props
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesMovie.props
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.build.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.development.json
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\scopedcss\bundle\RazorPagesMovie.styles.css
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CopyComplete
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\refint\RazorPagesMovie.dll
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.pdb
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.genruntimeconfig.cache
+D:\Asp.net\ClientManager\New folder\RazorPagesMovie\obj\Debug\net7.0\ref\RazorPagesMovie.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\appsettings.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.staticwebassets.runtime.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.exe
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.deps.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.runtimeconfig.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.pdb
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.AssemblyReference.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cs
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesMovie.props
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesMovie.props
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesMovie.props
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\scopedcss\bundle\RazorPagesMovie.styles.css
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CopyComplete
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\refint\RazorPagesMovie.dll
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.pdb
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.genruntimeconfig.cache
+C:\Users\BHAR\Desktop\Asp.net\RazorPagesMovie\obj\Debug\net7.0\ref\RazorPagesMovie.dll

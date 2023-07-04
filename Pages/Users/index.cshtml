@@ -1,0 +1,43 @@
+@page
+@model RazorPagesMovie.Pages.Users.IndexModel
+@{
+}
+
+
+
+<br />
+<h2> List of Users </h2>
+<a class ='btn btn-primary btn-sm ' href = '/Users/Create' >New User </a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th> 
+            <th>Image</th>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th> 
+            <th>Address</th> 
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach ( var item in Model.userList)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.image</td>
+                <td>@item.name</td>
+                <td>@item.phone</td>
+                <td>@item.email</td>
+                <td>@item.address</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Clients/Edit?id=@item.id">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Clients/Delete?id=@item.id">Delete</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

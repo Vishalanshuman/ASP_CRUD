@@ -1,0 +1,22 @@
+@page
+@using MySql.Data.MySqlClient;
+@{
+   try
+   {
+    string id = Request.Query["id"];
+    string connectionString = "server=localhost;database=CrudDb;uid=root;password=vishalanshuman@123;";
+    using(MySqlConnection connection = new MySqlConnection(connectionString)){
+        connection.Open();
+        String sql = "DELETE FROM client WHERE id=@id";
+        using(MySqlCommand command =new MySqlCommand(sql, connection)){
+            command.Parameters.AddWithValue("@id",id);
+            command.ExecuteNonQuery();
+        }
+    }
+   }
+   catch (Exception ex)
+   {
+    
+   }
+   Response.Redirect("/Clients/index");
+}
